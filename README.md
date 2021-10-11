@@ -18,7 +18,7 @@
 
 - 👀 know more about me [here](https://www.sivafx.com/) 
 - 🌱 Learning `Fullstack Web Development` & 'Data Science'. 
-- 🤔 Need some help with `technical interview`.
+- 🤔 Need some help with `night sleep`.
 - 💬 Ask me about anything ☞ [here](https://www.sivafx.com).
 - ⚡ Fun fact: I start fall in love as soon as I see a new technology.
 - 💭 Let's get to know each other 
