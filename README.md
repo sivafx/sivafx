@@ -14,18 +14,27 @@
   <h3> 😎 Sivafx | 🕺 Developer - Designer - Trainer | 🌏 Vizag, India </h3> 
 </div>
 
-### About me 
+### About Me 
 
-- 👀 Know more about me [here](https://www.sivafx.com/) 
-- 🌱 Learning `Fullstack Web Development` & `Data Science`. 
-- 🤔 Need some help with `...`
-- 💬 Ask me about anything ☞ [here](https://www.sivafx.com).
-- ⚡ Fun fact: I start to fall in love as soon as I see a new technology.
-- 💭 Let's get to know each other 
+👋 **Hello! I'm Shiva** – a seasoned IT trainer with over 20 years of experience delivering comprehensive training in software development, 3D modeling, graphic design, data analysis, and more. My career is driven by a commitment to empowering learners with practical, hands-on skills and in-depth knowledge of the latest technologies.
 
-### Checkout my Website [sivafx.com](https://sivafx.com) 
+🌟 **Professional Expertise**  
+I specialize in fullstack development and a range of technical applications, offering training in:
+- **Programming & Development**: C, C++, Java Fullstack, Python Fullstack, PHP Fullstack, JavaScript Fullstack
+- **Data Analysis & BI**: Microsoft Excel, Power BI, SQL databases (Oracle, MySQL, SQL Server)
+- **Design Software**: AutoCAD, CorelDRAW, Adobe Illustrator, Photoshop
+- **3D Modeling**: SketchUp, Revit, 3ds Studio Max
+- **Video Editing**: Adobe Premiere Pro, After Effects
 
-- 🔨 <a href="https://sivafx.com">Contact me</a>
+🚀 **Current Focus**  
+I'm constantly enhancing my knowledge of `New Technolgoies`, while exploring innovative approaches to software engineering and data-driven solutions.
+
+🌱 **Passion for Technology**  
+Technology is at the heart of everything I do. My enthusiasm for teaching is fueled by my curiosity and a desire to stay at the forefront of emerging tech trends. I believe in creating engaging and impactful learning experiences that prepare individuals for real-world challenges.
+
+💬 **Connect with Me**  
+I welcome opportunities for collaboration and am always open to sharing insights or discussing industry developments. Feel free to reach out via [my website](sivafx@gmail.com) or connect with me on professional networks.
+
 
 ---
 
