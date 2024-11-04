@@ -11,7 +11,7 @@
 <a href="https://unsplash.com/@sivafx"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/unsplash.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%3Ch3%3E+%F0%9F%98%8E+im'+Shiva+%7C+%F0%9F%95%BA+Developer+-+Designer+-+Trainer+%7C+%F0%9F%8C%8F+Vizag%2C+India+%3C%2Fh3%3E+)](https://git.io/typing-svg)
+  <h3> 😎 Sivafx | 🕺 Developer - Designer - Trainer | 🌏 Vizag, India </h3> 
 </div>
 
 ### About Me 
