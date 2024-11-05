@@ -19,17 +19,20 @@
 👋 **Hello! I'm Shiva** – a seasoned IT trainer with over 20 years of experience in delivering high-quality training across diverse technology domains. My career is driven by a passion for empowering learners with practical, hands-on skills and deep, industry-relevant knowledge. 🚀
 
 🌟 **Professional Expertise**  
-I specialize in fullstack development and a variety of technical applications, including:
-- **💻 Programming & Development**: C, C++, Java Fullstack, Python Fullstack, PHP Fullstack, JavaScript Fullstack
-- **📊 Data Analysis & BI**: Microsoft Excel, Power BI, and SQL databases (Oracle, MySQL, SQL Server)
+I specialize in fullstack development and a wide range of technical applications, offering training in:
+- **💻 Programming & Development**: C, C++, Java Fullstack, Python Fullstack, PHP Fullstack, JavaScript Fullstack, .NET Fullstack
+- **📚 Data Structures & Algorithms**: Fundamental and advanced concepts, optimization techniques, and real-world problem-solving
+- **☁️ Cloud Computing**: AWS cloud services, infrastructure, and best practices for deployment
+- **📊 Data Analysis & BI**: Microsoft Excel, Power BI, SQL databases (Oracle, MySQL, SQL Server)
 - **🎨 Design Software**: AutoCAD, CorelDRAW, Adobe Illustrator, Photoshop
 - **🛠️ 3D Modeling**: SketchUp, Revit, 3ds Studio Max
 - **🎬 Video Editing**: Adobe Premiere Pro, After Effects
 
+
 🌱 **My Approach**  
 I believe in making complex concepts accessible and engaging, using real-world examples and a hands-on approach to teaching. My goal is to equip learners with the skills and confidence to excel in a rapidly evolving tech landscape. 💡
 
-💬 **Connect with Me **  
+💬 **Connect with Me**  
 Let's collaborate and innovate together! Feel free to reach out to discuss tech trends, potential projects, or training opportunities. (sivafx@gmail.com) 🤝
 
 
