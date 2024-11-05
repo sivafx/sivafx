@@ -37,7 +37,9 @@ Let's collaborate and innovate together! Feel free to reach out to discuss tech 
 
 
 ---
-💻 **Technologies I Train In:**
+<div align="center">
+  <h3> 💻 **Technologies I Train In:** </h3> 
+</div>
 
 ### 1. **Java Fullstack** 🚀
 - **Frontend**: HTML, CSS, JavaScript, and frameworks like React.js or Angular
@@ -122,8 +124,10 @@ Let's collaborate and innovate together! Feel free to reach out to discuss tech 
 - **Monitoring**: CloudWatch, AWS X-Ray
 
 
-## My Skill Set  
-Frontend  
+## 
+<div align="center">
+  <h3> 💻 My Skill Set | Frontend </h3> 
+</div>
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -137,7 +141,9 @@ Frontend
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
 </div></td><td valign="top" width="33%">
 
-Backend  
+<div align="center">
+  <h3> 💻 My Skill Set | Backend </h3> 
+</div>
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -155,15 +161,6 @@ Backend
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 </div></td><td valign="top" width="33%">
 
- DevOps  
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-</div>
 
 
 <!--
