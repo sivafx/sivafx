@@ -22,7 +22,7 @@
 I specialize in fullstack development and a wide range of technical applications, offering training in:
 - **💻 Programming & Development**: C, C++, Java Fullstack, Python Fullstack, PHP Fullstack, JavaScript Fullstack, .NET Fullstack
 - **📚 Data Structures & Algorithms**: Fundamental and advanced concepts, optimization techniques, and real-world problem-solving
-- - **🧪 Software Testing**: Manual testing techniques, automation testing using Selenium, TestNG, and other frameworks and tools
+- **🧪 Software Testing**: Manual testing techniques, automation testing using Selenium, TestNG, and other frameworks and tools
 - **🖥️ Operating Systems**: Windows and Linux, including Linux shell scripting for automation and system management
 - **🌐 Frontend Development**: HTML, CSS, JavaScript, Bootstrap, **📚 Frontend Libraries**: React for building responsive and interactive user interfaces
 - **☁️ Cloud Computing**: AWS cloud services, infrastructure, and best practices for deployment
