@@ -44,7 +44,7 @@ Let's collaborate and innovate together! Feel free to reach out to discuss tech 
   <h3> 💻 **Technologies I Train In:** </h3> 
 </div>
 
-### 1. **Java Fullstack** [🚀](https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png)
+### 1. **Java Fullstack** <img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React"](https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png) height="50" />  
 - **Frontend**: HTML, CSS, JavaScript, and frameworks like React.js or Angular
 - **Backend**: Java-based frameworks such as Spring and Spring Boot
 - **Database**: MySQL, Oracle, or MongoDB
