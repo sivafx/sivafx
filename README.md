@@ -163,24 +163,6 @@ Backend
 </div>
 
 
- **Applications & Software**:
-- **Design & Drafting**: AutoCAD, Microsoft Office
-- **3D Modeling**: SketchUp, Revit, 3ds Studio Max
-
-🎨 **Graphic Design**:
-- CorelDRAW
-- Illustrator
-- Photoshop
-
-🎬 **Video Editing**:
-- Premiere Pro
-- After Effects
-
-📊 **Data & Analysis**:
-- Microsoft Excel
-- Power BI
-
-
 <!--
 **sivafx/sivafx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
